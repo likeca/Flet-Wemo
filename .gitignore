@@ -1,0 +1,7 @@
+# Flet
+**/build/
+**/dist/
+**/*.spec
+
+# Python
+**/venv
